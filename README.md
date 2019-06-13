@@ -1,1 +1,2 @@
-# dscontrol
+# Probot ✨
+Epic Discord Bot
